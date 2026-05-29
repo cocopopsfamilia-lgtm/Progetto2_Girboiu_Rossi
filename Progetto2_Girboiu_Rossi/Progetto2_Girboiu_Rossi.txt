@@ -1,0 +1,57 @@
+STRUTTURA DEL SITO:
+
+3 PAGINE TOTALI:
+
+Main Page: 
+
+Questa è la pagina in cui vengono accolti gli studenti e gli viene esposto il tipo di progetto che affronteranno e di come la nostra scuola ne è parte.
+
+	- TITOLO DEL SITO:
+			. Qui, oltre al nome del sito, vengono inseriti i crediti ed il collegamento al sito della scuola. 
+	- Navigation Bar (separata dal riquadro che si trova nella parte superiore del sito [riconoscibile per il colore azzurro]):
+		. CITTA'/PAESI IN COLLABORAZIONE CON IL PROGETTO: breve pagina introduttiva ad ogni città/paese partner dell'Erasmus, con ulteriore selezione della città interessata
+			.pagina approfondita dell/a paese/citta scelto/a
+		. POSSIBILI LAVORI IN BASE ALLA MATERIA DI STUDIO
+			.pagina descrittiva dell'argomento
+		. SEZIONE COMMUNITY:
+			.sezione dedicata alle persone che hanno partecipato al progetto, con vari commenti da parte degli utenti.
+	- CORPO DELLA MAIN PAGE, in cui individuiamo due paragarfi: 
+		. Cosa è il progetto ERASMUS: breve descrizione del progetto ERASMUS e che vantaggi porta;
+		. La nostra scuola: introduzione alla nostra scuola e a come essa collabori con il progetto.
+	- FOTO: sotto il paragrafo della nostra scuola inseriamo delle foto dei ragazzi che hanno partecipato al progetto nei vari anni.
+
+Anche alla fine della pagina, come detto sopra, c'è un piccolo riquadro che fa da limite per la pagina.
+
+Inoltre l'intero sfondo della pagina è animato, formato da 3 foto di 3 destinazioni ERASMUS (per dare quel tocco di dinamicità alla pagina).
+
+Pagina 2:
+
+...
+
+Pagina 3:
+
+Questa sarà la pagina che permette agli studenti di scoprire cosa si fa in ERASMUS e che tipo di lavori si possono fare in base a cosa si studia.
+
+Come per la Home Page qui ritroviamo sempre i primi due elementi: 
+	
+	- TITOLO DEL SITO:
+			... 
+	- Navigation Bar (separata dal riquadro che si trova nella parte superiore del sito [riconoscibile per il colore azzurro]):
+		. CITTA'/PAESI IN COLLABORAZIONE CON IL PROGETTO:
+			...
+		. POSSIBILI LAVORI IN BASE ALLA MATERIA DI STUDIO:
+			...
+		. SEZIONE COMMUNITY:
+			…
+
+Poi qui avremo il corpo della pagina:
+
+	- COSA SI FA NEL PROGETTO ERASMUS:
+		.qui verrà inserito un breve testo su cosa si fa di solito nel progetto ERASMUS.
+	- VARI SBOCCHI LAVORATIVI IN BASE AL PERCORSO DI STUDIO: 
+		.qui pure sarà presente un testo in cui vengono esposti i vari lavori con a immagini illustrative per comprendere meglio il percorso.
+
+Pagina 4:
+
+...
+
